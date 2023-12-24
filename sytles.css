@@ -68,12 +68,9 @@ header{
 
 
 .ramkishanji{
+  overflow: scroll;
   height: 600px;
   background-image: linear-gradient(to right, black,white)
-}
-
-.e-kutumb{
-  width: 40%;
 }
 
 .ramkishanji-photo{
@@ -87,8 +84,9 @@ header{
 } 
 .p1{
   padding: 100px;
-  color: white;
+  color: rgb(0, 0, 0);
   font-size: 20px;
+  
 }
 
 
